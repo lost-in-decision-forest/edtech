@@ -33,7 +33,7 @@ There are more courses available, but they haven't been assembled into playlists
 
 ### Phylosophy
 
-[Yale PHIL 176 — Death (Shelly Kagan)](https://open.spotify.com/playlist/71wBY7ca4ez5q974qKIb9v) — 26 lectures, in order, Spring 2007
+[Yale PHIL 176 — Death (Shelly Kagan)](https://open.spotify.com/playlist/71wBY7ca4ez5q974qKIb9v) — 26 lectures, Spring 2007
 
 ### Political Science
 
