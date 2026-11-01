@@ -5,7 +5,7 @@ title: Spotify playlists for Stanford Courses
 # Spotify playlists for Stanford Courses
 Last Updated: November 1st, 2026
 
-## Human Behavioral Biology (BIO 150 / HUMBIO 160) — Robert Sapolsky
+## Biology
 
 [Stanford – Human Behavioral Biology (2024) – Robert Sapolsky](https://open.spotify.com/playlist/4fv7a28mGZHpQ8khhsm8xX) — 32 lectures, Lectures 1-32, complete, in order, Spring 2024
 
