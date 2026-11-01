@@ -7,7 +7,7 @@ Last Updated: November 1st, 2026
 
 ## Biology
 
-[Stanford – Human Behavioral Biology (2024) – Robert Sapolsky](https://open.spotify.com/playlist/4fv7a28mGZHpQ8khhsm8xX) — 32 lectures, Lectures 1-32, complete, in order, Spring 2024
+[Stanford – Human Behavioral Biology (2024) – Robert Sapolsky](https://open.spotify.com/playlist/4fv7a28mGZHpQ8khhsm8xX) — 32 lectures, Lectures 1-32, complete, Spring 2024
 
 Original course: Human Behavioral Biology, BIO 150 / HUMBIO 160, Robert Sapolsky, Stanford, Spring 2024
 
