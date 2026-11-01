@@ -1,3 +1,7 @@
+---
+layout: default
+title: Spotify playlists for Open Yale Courses
+---
 # Spotify playlists for Open Yale Courses 
 Last Updated: November 1st, 2026
 
