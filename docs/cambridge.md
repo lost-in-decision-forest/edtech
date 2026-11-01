@@ -7,17 +7,17 @@ Last Updated: November 1st, 2026
 
 [Original home: Lauterpacht Centre for International Law](https://www.lcil.cam.ac.uk/)
 
-[Public Lectures from the Faculty of Law, University of Cambridge on Spotify](https://open.spotify.com/show/6873h5SjqqL0ugXvvStUIt)
+[Public Lectures from the Faculty of Law, University of Cambridge on Spotify](https://open.spotify.com/show/6873h5SjgqL0ugXvvStUIT)
 
 ## Law
 
 ### Hersch Lauterpacht Memorial Lectures 2026 — Dapo Akande
 
-**Playlist to be created.** Spotify episode IDs, lecture order, completeness, and suitability for listening alone are to be checked.
+[Cambridge – Hersch Lauterpacht Memorial Lectures 2026 – Dapo Akande](https://open.spotify.com/playlist/2LDEFYt6tKLmbUzIdEwUHm) — 3 lectures, complete, June 2026
 
 Lecturer: [Professor Dapo Akande](https://www.law.ox.ac.uk/people/dapo-akande), University of Oxford; lectures hosted by the University of Cambridge.
 
-Original series: [Immunities of State Officials and Prosecutions for International Crimes — Where does the Law Stand?](https://www.lcil.cam.ac.uk/press/events/2026/06/hersch-lauterpacht-memorial-lectures-2026-lecture-1-immunities-state-officials-and-prosecutions), June 8–10, 2026. Three lectures listed by the publisher:
+Original series: [Immunities of State Officials and Prosecutions for International Crimes — Where does the Law Stand?](https://www.lcil.cam.ac.uk/press/events/2026/06/hersch-lauterpacht-memorial-lectures-2026-lecture-1-immunities-state-officials-and-prosecutions), June 8-10, 2026. Three lectures listed by the publisher:
 
 1. International Law Immunities — Do we need them?
 2. Immunities and Prosecutions for International Crimes in Foreign Domestic Courts

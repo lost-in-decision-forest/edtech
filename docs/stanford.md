@@ -17,12 +17,10 @@ Note: on Spotify these lectures are hosted under the Robert Sapolsky's Lectures 
 
 ### Entrepreneurial Thought Leaders' Seminar (MS&E 472)
 
-**Playlist to be created.** Select a course term or coherent lecture sequence, then verify Spotify episode IDs, order, completeness, and suitability for listening alone.
+[Stanford – Entrepreneurial Thought Leaders, Spring 2026](https://open.spotify.com/playlist/5XNDhZsFjBF0ObxKvNIUJi) — 8 talks, Spring 2026 term, in date order
+Talks: Brendan Foody (Mercor), Kit Rodgers, Ben Jun and Paul Kocher (Cryptography Research), Harry Tannenbaum (Mill), Tracy Chou (Block Party), Elizabeth Weil (Scribble Ventures), Ellen Ochoa (NASA), Jake Miller (Fellow), Ryan Nece (Next Legacy Partners).
+Note: this is one term only; other terms remain in the Entrepreneurial Thought Leaders show.
 
 [Entrepreneurial Thought Leaders on Spotify](https://open.spotify.com/show/24QifPSob9PbOE5dPwQzXa)
 
 Original course and series: [Stanford Technology Ventures Program — Entrepreneurial Thought Leaders](https://stvp.stanford.edu/start). Stanford identifies the recordings as coming from MS&E 472.
-
-Lecturers: visiting speakers; names and links to their institutional or professional profiles are to be added with the selected talks.
-
-Note: this is an ongoing guest-speaker seminar. A term and lecture count have not yet been selected for this playlist.
