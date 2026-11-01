@@ -52,3 +52,4 @@ There are more courses available, but they haven't been assembled into playlists
 ### Other
 
 [Yale – Connected Leadership (Peter Boyd)](https://open.spotify.com/playlist/72Y6HIIQ4mRu9psioND52X) — 16 core episodes, episodes unnumbered, listen in playlist order
+[Contributing](https://github.com/lost-in-decision-forest/edtech/blob/main/CONTRIBUTING.md) — how to suggest a course, correct a playlist, or fix the site.
