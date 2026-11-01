@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: amitmerchant1990/reverie
+plugins:
+  - jekyll-remote-theme
 title: Audio-Friendly EdTech
 description: Curation and structure for publicly available, audio-friendly educational content.
+baseurl: /edtech
+url: https://lost-in-decision-forest.github.io
