@@ -7,7 +7,7 @@ Last Updated: November 1st, 2026
 
 ## Management
 
-[MIT – Blockchain and Money (15.S12) – Gary Gensler](https://open.spotify.com/playlist/5ZrpiYqP8nPpTXpujTAg2u) — 13 lectures found on Spotify, in order, Fall 2018
+[MIT – Blockchain and Money (15.S12) – Gary Gensler](https://open.spotify.com/playlist/5ZrpiYqP8nPpTXpujTAg2u) — 13 lectures found on Spotify, Fall 2018
 
 Original course: [Blockchain and Money, 15.S12, MIT OpenCourseWare](https://ocw.mit.edu/15-S12F18)
 
