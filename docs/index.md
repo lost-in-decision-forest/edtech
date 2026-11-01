@@ -3,6 +3,8 @@ Last Updated: November 1st, 2026
 
 [Original home: Open Yale Courses](https://oyc.yale.edu/) — free Yale College lectures, video, audio, and transcripts, no registration required.
 
+[YaleCourses on Spotify](https://open.spotify.com/show/033RFWa9eIRlj034icPBMy)
+
 
 ## Playlists by Course
 Some of the playlists have missing lectures because they were not available on Spotify at the time of writing.
