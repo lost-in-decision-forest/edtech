@@ -11,11 +11,12 @@ Last Updated: November 1st, 2026
 
 ## Social Sciences
 
-### Public Lectures and Events — collection to be selected
+### LSE Festival 2026: How to save the planet
 
-**Playlist to be created.** Select a coherent topic and lecture sequence, then verify Spotify episode IDs, order, completeness, and suitability for listening alone.
+[LSE – Festival 2026: How to save the planet](https://open.spotify.com/playlist/5kSO6qWySWfv56k0FqeXwZ) — 23 talks, Festival week 15–20 June 2026, in date order
+Note: this is the Festival-week talks found in the LSE show on Spotify, not a publisher-confirmed complete Festival set. The Mariana Mazzucato keynote listed on LSE's Festival pages was not found in the Spotify feed. Speakers vary by event.
 
-Lecturers: varies by event; names and links to their institutional profiles are to be added when lectures are selected.
+Lecturers: varies by event.
 
 Original recordings: [LSE Player](https://www.lse.ac.uk/lse-player). Event dates and original event pages are to be added with the selected lectures.
 
