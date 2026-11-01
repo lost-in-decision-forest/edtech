@@ -1,6 +1,4 @@
-remote_theme: amitmerchant1990/reverie
-plugins:
-  - jekyll-remote-theme
+theme: minima
 title: Audio-Friendly EdTech
 description: Curation and structure for publicly available, audio-friendly educational content.
 baseurl: /edtech
