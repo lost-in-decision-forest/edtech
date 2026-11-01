@@ -13,7 +13,7 @@ Last Updated: November 1st, 2026
 
 ### Lieux de pouvoir — Patrick Boucheron
 
-**Playlist to be created.** Spotify episode availability, lecture order, completeness, and suitability for listening alone are to be checked.
+[Collège de France – Lieux de pouvoir – Patrick Boucheron](https://open.spotify.com/playlist/7GWqKpTbmwnMdm6H9ztg5P) — 12 lectures, Lectures 1-12, complete, January–March 2026
 
 Lecturer: [Patrick Boucheron](https://www.college-de-france.fr/fr/chaire/patrick-boucheron-histoire-des-pouvoirs-en-europe-occidentale-xiiie-xvie-siecle-chaire-statutaire/events)
 
