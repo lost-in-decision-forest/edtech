@@ -29,7 +29,11 @@ Before opening a pull request for a playlist, check that:
 - The playlist description is under Spotify's 300-character limit
 - The original publisher is credited; this site curates, it does not claim the lectures
 - The playlist is public
-- The playlist is placed into the right category. If the category is missing, please add one and stick it into the alphabeticaly-appropriate spot.
+
+On this repo's course description side:  
+- The playlist is placed into the right category. If the category is missing, please add one and stick it into the alphabeticaly-appropriate spot
+- Include semester when the course was read at Yale. Attention! Do not use the date of the episode upload to Spotify, look it up on the original publisher's website
+- Include lecturer's name and link to their site
 
 ## How to contribute
 
