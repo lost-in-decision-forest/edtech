@@ -9,7 +9,7 @@ Last Updated: November 1st, 2026
 
 ## Religious Studies
 
-[Yale – Introduction to the New Testament (RLST 152) – Dale Martin](https://open.spotify.com/playlist/0rYIPxIpXHgC9Rzm6Sqbjq) — 26 lectures, Lectures 1-26, complete, in order, Spring 2009
+[Yale – Introduction to the New Testament (RLST 152) – Dale Martin](https://open.spotify.com/playlist/0rYIPxIpXHgC9Rzm6Sqbjq) — 26 lectures, Lectures 1-26, complete, Spring 2009
 
 Original course: [Introduction to New Testament History and Literature, RLST 152](https://oyc.yale.edu/religious-studies/rlst-152)
 
