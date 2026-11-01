@@ -1,23 +1,24 @@
-# Contributing to Audio-Friendly EdTech
+# Contributing
 
 Thank you for helping curate audio-friendly educational content. This project collects publicly available courses that can be followed by listening alone, so people can learn while driving, cooking, gardening, or doing other things with their hands and eyes busy.
 
-## What we welcome
+## What is welcome
 
 - New audio-friendly course playlists, with lectures in order
-- Corrections to lecture order, counts, or missing-lecture notes
+- Corrections to lecture order, counts, missing-lecture notes etc
 - Better playlist descriptions and site fixes
+- Improvement requests and ideas
 
-## What we do not want
+## What does not belong 
 
+- Pirated content
 - Courses that only work by watching video or reading on screen
-- Paywalled or pirated content
 - Unrelated courses, re-uploads, or substituted episodes that only sound similar
 
-## The audio-friendly test
+## Audio-friendliness test
 
-If a course cannot be followed by listening alone, it does not belong here, however good it is.
-
+If a course cannot be followed by listening alone, it does not belong here, however good it is. Okay, perhaps we could find it a home somewhere on the side.
+ 
 ## Playlist checklist
 
 Before opening a pull request for a playlist, check that:
@@ -27,6 +28,8 @@ Before opening a pull request for a playlist, check that:
 - No similar-sounding episode was substituted for a missing lecture
 - The playlist description is under Spotify's 300-character limit
 - The original publisher is credited; this site curates, it does not claim the lectures
+- The playlist is public
+- The playlist is placed into the right category. If the category is missing, please add one and stick it into the alphabeticaly-appropriate spot.
 
 ## How to contribute
 
