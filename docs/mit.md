@@ -5,7 +5,7 @@ title: Spotify playlists for MIT Courses
 # Spotify playlists for MIT Courses
 Last Updated: November 1st, 2026
 
-## Blockchain and Money (15.S12) — Gary Gensler
+## Management
 
 [MIT – Blockchain and Money (15.S12) – Gary Gensler](https://open.spotify.com/playlist/5ZrpiYqP8nPpTXpujTAg2u) — 13 lectures found on Spotify, in order, Fall 2018
 
